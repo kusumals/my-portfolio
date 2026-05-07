@@ -4,6 +4,14 @@ const Home = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-light to-secondary/20">
       <div className="text-center px-4">
+        {/* Profile Photo - Circular */}
+        <div className="flex justify-center mb-6">
+          <img
+            src="/images/kusuma.jpg"
+            alt="Kusuma L S"
+            className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-primary shadow-lg"
+          />
+        </div>
         <h1 className="text-5xl md:text-7xl font-bold text-dark mb-4">
           Hi, I'm <span className="text-primary">Kusuma L S</span>
         </h1>
