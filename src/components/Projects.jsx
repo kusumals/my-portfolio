@@ -12,7 +12,7 @@ const projects = [
     name: 'FixMyCity',
     description: 'Civic issue reporting platform for Bangalore. Report road damage, water leaks, garbage, streetlights. Upvote, authority dashboard, email alerts, photo uploads.',
     tech: ['React', 'Tailwind CSS', 'Firebase', 'Supabase', 'EmailJS'],
-    link: 'https://fixmycity.vercel.app',
+    link: 'https://fixmycity-umber.vercel.app/p',
     image: '/images/fixmycity.jpg',
   },
   {
