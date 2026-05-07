@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #B8E3E9;
+    color: #0B2E33;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+}@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #B8E3E9;
+    color: #0B2E33;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+}@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #B8E3E9;
+    color: #0B2E33;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+}
